@@ -1,0 +1,2 @@
+robotframework>=6.0
+robotframework-mainframe3270>=2.0.0
